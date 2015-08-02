@@ -44,8 +44,9 @@ authInfo
 Ctietuku::initAuth(){
 
     authInfo auth;
-    auth.accessKey="6ddc2eddb5466217fac17067a24f89d99e3e6287";
-    auth.screctKey="635d266c31983833e65bc9d3e943c5aafaa8a132";
+    //your auth info
+    auth.accessKey="";
+    auth.screctKey="";
     return auth;
 
 }
